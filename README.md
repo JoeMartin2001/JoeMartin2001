@@ -28,7 +28,7 @@ I love turning complex ideas into clean, functional solutions — whether it’s
 ## 🚀 Projects
 Here are some highlights (check pinned repos 👇):
 
-- 📦 **[react-native-video-lab](https://github.com/<your-username>/react-native-video-lab)**  
+- 📦 **[react-native-video-lab](https://github.com/JoeMartin2001/react-native-video-lab)**  
   Video processing tools for React Native with customizable filters.  
 
 - 📱 **Al Dukkan**  
@@ -58,11 +58,11 @@ Here are some highlights (check pinned repos 👇):
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/sardorbek-aminjonov-059a981b1))  
-- 📦 [npm]([https://www.npmjs.com/~your-npm-username](https://www.npmjs.com/~sardorbek7176))  
+- 💼 [LinkedIn]([[https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/sardorbek-aminjonov-059a981b1)](https://www.linkedin.com/in/sardorbek-aminjonov-059a981b1))  
+- 📦 [npm]([https://www.npmjs.com/~sardorbek7176](https://www.npmjs.com/~sardorbek7176))  
 - 📸 [Instagram]([https://instagram.com/sardorbek7176](https://www.instagram.com/sardorbek__7176))  
 - ✉️ Reach me at: **sardorbekaminjonov2001@gmail.com**
 
 ---
 
-⭐️ From [<your-username>](https://github.com/<your-username>)
+⭐️ From [JoeMartin2001](https://github.com/JoeMartin2001)
