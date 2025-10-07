@@ -1,6 +1,6 @@
 # Hi there, I'm Sardorbek 👋
 
-🚀 **Full-Stack & Mobile Developer | SaaS Builder | Open Source Contributor**
+🚀 **Full Stack Software Engineer | React | React Native, Node.js, TypeScript, PostgreSQL | Building Scalable Applications | Open Source Contributor**
 
 I'm a developer passionate about building **scalable SaaS platforms** and **high-performance mobile apps**.  
 I love turning complex ideas into clean, functional solutions — whether it’s React Native packages, Next.js dashboards, or backend systems with Firebase, Supabase, and AWS.  
