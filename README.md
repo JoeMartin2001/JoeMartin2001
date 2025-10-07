@@ -8,8 +8,8 @@ I love turning complex ideas into clean, functional solutions — whether it’s
 ---
 
 ## 🔥 About Me
-- 💻 5+ years as a **MERN / React Native** developer  
-- 📱 Building mobile & SaaS products (GymLine, Al Dukkan, Smart Center)  
+- 💻 5+ years as a **Node JS / React Native** developer  
+- 📱 Building mobile & SaaS products (Amplinks, Womenheart, Al Dukkan, etc)  
 - 📦 Published npm package: [`react-native-video-lab`](https://www.npmjs.com/package/react-native-video-lab)  
 - 🌍 Based in Uzbekistan, working on projects for global markets  
 - ⚡ Currently exploring AI integrations for SaaS & mobile apps  
